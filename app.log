@@ -1,0 +1,67 @@
+2026-04-29 13:49:36,018 [INFO] CA bundle configurado: C:\Users\geren\Documents\Codex\2026-04-29\painel-sponte-asaas-compacto-campo-xml-vazio\PainelSponteAsaas\_internal\certifi\cacert.pem
+2026-04-29 13:51:06,127 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-29 13:51:10,837 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-29 13:52:43,999 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-29 16:38:06,291 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-29 16:40:24,165 [INFO] UI message | ERROR | Informe o caminho do XML.
+2026-04-29 16:40:36,765 [INFO] XML carregado por upload | xml=C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\uploads\20260429-164036-teste_oficial.xml | registros=274
+2026-04-29 16:40:36,765 [INFO] UI message | SUCCESS | XML anexado e lido com sucesso: 274 parcela(s) elegivel(is).
+2026-04-29 16:41:31,078 [INFO] Exclusao de ausente ok | external_reference=sponte-xml-1660|2026-05-03 | payment_id=pay_tvqj40c7l0a7qxng
+2026-04-29 16:41:31,239 [INFO] Exclusao de ausente ok | external_reference=sponte-xml-17023|2026-05-11 | payment_id=pay_xhkf6w8s4yv1v8mk
+2026-04-29 16:41:31,340 [INFO] Exclusao de ausente ok | external_reference=sponte-xml-1709|2026-05-15 | payment_id=pay_w9exdmjp34ev02t8
+2026-04-29 16:47:55,917 [INFO] Inicio de sincronizacao | modo=send | selecionados=7 | base_url=https://api.asaas.com/v3
+2026-04-29 16:47:55,929 [INFO] Job iniciado | job_id=046d26224cc4 | total=7
+2026-04-29 16:47:58,457 [INFO] Sincronizacao ok | job_id=046d26224cc4 | aluno=MIGUEL SOUZA LIMA VARGAS | external_reference=sponte-xml-1932|2026-05-05 | action=created | payment_id=pay_rtsxkob2kzn492al
+2026-04-29 16:47:59,521 [INFO] Sincronizacao ok | job_id=046d26224cc4 | aluno=JULIA OLIVEIRA CARDOSO | external_reference=sponte-xml-1929|2026-05-11 | action=created | payment_id=pay_p549wdn1wssvoo2j
+2026-04-29 16:48:00,557 [INFO] Sincronizacao ok | job_id=046d26224cc4 | aluno=EMANUELLY LAUREANO DE SOUZA ROCHA | external_reference=sponte-xml-1934|2026-05-12 | action=created | payment_id=pay_ti92l8uqgigasymj
+2026-04-29 16:48:01,583 [INFO] Sincronizacao ok | job_id=046d26224cc4 | aluno=BENJAMIN LUCCA MENDES OLIVEIRA | external_reference=sponte-xml-1931|2026-05-15 | action=created | payment_id=pay_vmv81mz1hhikpbw1
+2026-04-29 16:48:02,607 [INFO] Sincronizacao ok | job_id=046d26224cc4 | aluno=CHARLENE APARECIDA DA SILVA | external_reference=sponte-xml-1928|2026-05-15 | action=created | payment_id=pay_kp5jgrlwngg83y4b
+2026-04-29 16:48:03,919 [INFO] Sincronizacao ok | job_id=046d26224cc4 | aluno=LÍLIAN EUGÊNIA DE OLIVEIRA | external_reference=sponte-xml-1933|2026-05-15 | action=created | payment_id=pay_xrzro06m3y6qehsm
+2026-04-29 16:48:04,519 [INFO] Sincronizacao ok | job_id=046d26224cc4 | aluno=BERNARDO JERONIMO DO CARMO | external_reference=sponte-xml-1562|2026-05-25 | action=created | payment_id=pay_hl8ksewvd5xgx1cl
+2026-04-29 16:48:04,556 [INFO] Job concluido | job_id=046d26224cc4
+2026-04-29 17:00:28,512 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-29 17:53:15,281 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-29 17:53:34,168 [INFO] XML carregado por upload | xml=C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\uploads\20260429-175333-29-04.xml | registros=272
+2026-04-29 17:53:34,170 [INFO] UI message | SUCCESS | XML anexado e lido com sucesso: 272 parcela(s) elegivel(is).
+2026-04-29 17:53:34,170 [INFO] UI message | INFO | Atencao: 2 nome(s) sumiram em relacao ao ultimo XML do mesmo periodo.
+2026-04-29 19:37:11,273 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-29 19:40:03,023 [INFO] XML carregado por upload | xml=C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\uploads\20260429-194001-teste_oficial.xml | registros=274
+2026-04-29 19:40:03,031 [INFO] UI message | SUCCESS | XML anexado e lido com sucesso: 274 parcela(s) elegivel(is).
+2026-04-29 19:40:03,031 [INFO] UI message | INFO | Comparacao com o XML anterior: 2 entraram e 0 nao aparecem mais neste XML.
+2026-04-30 11:48:15,070 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-30 11:51:53,841 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-30 11:58:56,414 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-30 12:09:51,142 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-30 12:10:33,078 [INFO] XML carregado por caminho | xml=C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\uploads\20260429-194001-teste_oficial.xml | registros=274
+2026-04-30 12:10:33,078 [INFO] UI message | SUCCESS | XML carregado com sucesso: 274 parcela(s) elegivel(is).
+2026-04-30 12:39:12,974 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-30 12:39:36,024 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-30 12:40:15,871 [INFO] XML carregado por upload | xml=C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\uploads\20260430-124015-30-04.xml | registros=275
+2026-04-30 12:40:15,882 [INFO] UI message | SUCCESS | XML anexado e lido com sucesso: 275 parcela(s) elegivel(is).
+2026-04-30 12:40:15,882 [INFO] UI message | INFO | Comparacao com o XML anterior: 1 entraram e 0 nao aparecem mais neste XML.
+2026-04-30 15:41:37,386 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-30 15:45:03,971 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-30 15:45:22,349 [INFO] UI message | ERROR | Escolha um arquivo XML para anexar.
+2026-04-30 15:45:48,391 [INFO] XML carregado por upload | xml=C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\uploads\20260430-154547-e5fc6bd0-38bd-4754-8b90-c6b168819b5e_154329117.xml | registros=275
+2026-04-30 15:45:48,392 [INFO] UI message | SUCCESS | XML anexado e lido com sucesso: 275 parcela(s) elegivel(is).
+2026-04-30 15:46:47,809 [INFO] Inicio de sincronizacao | modo=send | selecionados=1 | base_url=https://api.asaas.com/v3
+2026-04-30 15:46:47,815 [INFO] Job iniciado | job_id=673088b3406a | total=1
+2026-04-30 15:46:50,365 [INFO] Sincronizacao ok | job_id=673088b3406a | aluno=GUILHERME RANÇÃO SENGO LIMA | external_reference=sponte-xml-1935|2026-05-11 | action=created | payment_id=pay_u9slvvc5eu1yulgm
+2026-04-30 15:46:50,513 [INFO] Job concluido | job_id=673088b3406a
+2026-04-30 17:51:52,736 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-04-30 17:52:28,771 [INFO] XML carregado por upload | xml=C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\uploads\20260430-175228-e5fc6bd0-38bd-4754-8b90-c6b168819b5e_154329117.xml | registros=275
+2026-04-30 17:52:28,795 [INFO] UI message | SUCCESS | XML anexado e lido com sucesso: 275 parcela(s) elegivel(is).
+2026-04-30 17:52:42,104 [INFO] UI message | ERROR | Selecione pelo menos uma parcela pronta para envio.
+2026-04-30 17:52:47,483 [INFO] UI message | ERROR | Selecione pelo menos uma parcela pronta para envio.
+2026-05-01 10:06:36,519 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-05-04 18:58:27,873 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-05-04 19:17:12,316 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-05-04 19:44:04,952 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-05-05 12:55:34,533 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
+2026-05-05 12:57:31,040 [INFO] UI message | SUCCESS | Conexao com o Asaas funcionando. Total de clientes retornado: 255.
+2026-05-05 12:57:38,106 [INFO] XML carregado por upload | xml=C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\uploads\20260505-125737-566578fb-974c-455f-977c-951484c7ceee_125646150.xml | registros=272
+2026-05-05 12:57:38,106 [INFO] UI message | SUCCESS | XML anexado e lido com sucesso: 272 parcela(s) elegivel(is).
+2026-05-05 12:57:38,106 [INFO] UI message | INFO | Comparacao com o XML anterior: 2 entraram e 5 nao aparecem mais neste XML.
+2026-05-05 12:58:46,904 [INFO] XML carregado por upload | xml=C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\uploads\20260505-125846-566578fb-974c-455f-977c-951484c7ceee_125646150.xml | registros=272
+2026-05-05 12:58:46,904 [INFO] UI message | SUCCESS | XML anexado e lido com sucesso: 272 parcela(s) elegivel(is).
+2026-05-05 18:01:01,340 [INFO] CA bundle configurado: C:\Users\geren\Documents\Painel Sponte Asaas OFICIAL\_internal\certifi\cacert.pem
